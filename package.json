@@ -1,0 +1,26 @@
+{
+  "name": "watch_esp32",
+  "version": "1.0.0",
+  "description": "Ce projet affiche sur un écran **LCD RGB Grove** les **notifications reçues sur votre téléphone** (Android ou iPhone), en temps réel, grâce à un serveur hébergé sur un **Raspberry Pi** et un module **ESP32**.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodejs": "^0.0.0",
+    "npm": "^11.4.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeanFourest/watch_esp32.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeanFourest/watch_esp32/issues"
+  },
+  "homepage": "https://github.com/JeanFourest/watch_esp32#readme"
+}
