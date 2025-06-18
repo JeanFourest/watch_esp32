@@ -137,14 +137,7 @@ node server.js
 
 ### 📸 Photos du montage
 
-> 📷 **Ajoutez ici vos photos du câblage et du montage physique.**
->  
-> Par exemple :
-> - `montage.jpg`
-> - `esp32_lcd_buzzer.jpg`
-
-*(Vous pouvez intégrer vos images dans GitHub ou les lier en ligne)*
-
+![branchement](https://github.com/user-attachments/assets/369375c4-87fa-4a4d-aaad-9aee90f70090)
 ---
 
 ## 📚 Librairies utilisées (Arduino)
